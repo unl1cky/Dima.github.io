@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-git clone https://github.com/username/Dima.github.io
+git clone https://github.com/username/unl1cky.github.io
 name: Deploy static content to Pages
 
 on:
